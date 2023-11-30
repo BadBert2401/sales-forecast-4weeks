@@ -1,5 +1,7 @@
 # Time Series Forecasting Project
 
+For the project I chose Problem 1: Predict the weekly aggregated sales for four weeks in advance.
+
 ## Dataset description and preprocessing
 
 This project focuses on time series forecasting using historical sales data. The dataset includes information about invoices, stock codes, descriptions, quantities, dates, prices, customer IDs, countries, and total sales After preprocessing the dataset includes the weekly aggregated sales.
