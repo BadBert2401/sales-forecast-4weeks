@@ -1,6 +1,6 @@
 # Time Series Forecasting Project
 
-## Overview
+## Dataset description and preprocessing
 
 This project focuses on time series forecasting using historical sales data. The dataset includes information about invoices, stock codes, descriptions, quantities, dates, prices, customer IDs, countries, and total sales After preprocessing the dataset inclues the weekly aggregated sales
 
