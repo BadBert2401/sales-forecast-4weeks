@@ -6,12 +6,9 @@ For the project I chose Problem 1: Predict the weekly aggregated sales for four 
 
 This project focuses on time series forecasting using historical sales data. The dataset includes information about invoices, stock codes, descriptions, quantities, dates, prices, customer IDs, countries, and total sales After preprocessing the dataset includes the weekly aggregated sales.
 
-## Stationarity Analysis
+## Stationarity/Seasonality Analysis
 
 Stationarity testing is crucial in time series analysis. Methods like the Augmented Dickey-Fuller Test are employed to assess whether statistical properties remain constant over time.
-
-## Seasonality Analysis
-
 Understanding seasonality patterns is essential for selecting appropriate forecasting models. Visualizations such as seasonal decomposition or autocorrelation functions aid in this analysis.
 
 ## Train/Test split
