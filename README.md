@@ -4,7 +4,7 @@
 
 This project focuses on time series forecasting using historical sales data. The dataset includes information about invoices, stock codes, descriptions, quantities, dates, prices, customer IDs, countries, and total sales After preprocessing the dataset includes the weekly aggregated sales.
 
-## Stationarity Test
+## Stationarity Analysis
 
 Stationarity testing is crucial in time series analysis. Methods like the Augmented Dickey-Fuller Test are employed to assess whether statistical properties remain constant over time.
 
