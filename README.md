@@ -1,1 +1,1 @@
-# sales-forecast-4weeks
+# Sales forecasting for 4 weeks
