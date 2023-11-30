@@ -1,5 +1,3 @@
-# Sales forecasting for 4 weeks
-
 # Time Series Forecasting Project
 
 ## Overview
