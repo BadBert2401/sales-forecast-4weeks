@@ -2,7 +2,7 @@
 
 ## Dataset description and preprocessing
 
-This project focuses on time series forecasting using historical sales data. The dataset includes information about invoices, stock codes, descriptions, quantities, dates, prices, customer IDs, countries, and total sales After preprocessing the dataset inclues the weekly aggregated sales
+This project focuses on time series forecasting using historical sales data. The dataset includes information about invoices, stock codes, descriptions, quantities, dates, prices, customer IDs, countries, and total sales After preprocessing the dataset includes the weekly aggregated sales.
 
 ## Stationarity Test
 
@@ -11,6 +11,10 @@ Stationarity testing is crucial in time series analysis. Methods like the Augmen
 ## Seasonality Analysis
 
 Understanding seasonality patterns is essential for selecting appropriate forecasting models. Visualizations such as seasonal decomposition or autocorrelation functions aid in this analysis.
+
+## Train/Test split
+
+I split the dataset into training and validation sets. The last 4 data points are reserved for validation.
 
 ## Time Series Forecasting
 
