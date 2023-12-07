@@ -4,7 +4,7 @@ For the project I chose Problem 1: Predict the weekly aggregated sales for four 
 
 ## Dataset description and preprocessing
 
-This project focuses on time series forecasting using historical sales data. The dataset includes information about invoices, stock codes, descriptions, quantities, dates, prices, customer IDs, countries, and total sales After preprocessing the dataset includes the weekly aggregated sales.
+This project focuses on time series forecasting using historical sales data. The dataset includes information about invoices, stock codes, descriptions, quantities, dates, prices, customer IDs, countries, and total sales. After preprocessing the dataset includes the weekly aggregated sales.
 
 ## Stationarity/Seasonality Analysis
 
@@ -21,7 +21,7 @@ Various time series forecasting algorithms are trained on the preprocessed data.
 
 ## Evaluation
 
-The trained models are utilized to predict future sales values with a test set for the next 4 weeks. Evaluation metrics such as Mean Squared Error (MSE) and Mean Absolute Error (MAE) are used to assess the performance of the forecasting models.
+The trained models are utilized to predict future sales values with a test set for the next 4 weeks. Evaluation metrics such as Mean Absolute Percentage Error (MSE) and Mean Absolute Error (MAE) are used to assess the performance of the forecasting models.
 
 ## Prediction for the Next 4 Weeks
 
