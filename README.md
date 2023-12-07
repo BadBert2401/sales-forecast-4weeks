@@ -21,7 +21,7 @@ Various time series forecasting algorithms are trained on the preprocessed data.
 
 ## Evaluation
 
-The trained models are utilized to predict future sales values with a test set for the next 4 weeks. Evaluation metrics such as Mean Absolute Percentage Error (MSE) and Mean Absolute Error (MAE) are used to assess the performance of the forecasting models.
+The trained models are utilized to predict future sales values with a test set for the next 4 weeks. Evaluation metrics such as Mean Absolute Percentage Error (MAPE) and Mean Absolute Error (MAE) are used to assess the performance of the forecasting models.
 
 ## Prediction for the Next 4 Weeks
 
